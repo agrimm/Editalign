@@ -8,7 +8,7 @@ FIX (describe your package)
 
 == FEATURES/PROBLEMS:
 
-* FIX (list of features or problems)
+* Doesn't seem to be 1.9 compatible
 
 == SYNOPSIS:
 
